@@ -1,9 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>Story Finder</title>
-    <link>https://github.com/RewardCharlyAdmin/storyfinder-releases</link>
-    <description>Actualizaciones firmadas de Story Finder. No hay versiones publicadas todavía.</description>
-    <language>es</language>
-  </channel>
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Story Finder</title>
+        <item>
+            <title>0.12.2</title>
+            <pubDate>Tue, 17 Nov 2026 07:42:20 -0600</pubDate>
+            <sparkle:version>1202</sparkle:version>
+            <sparkle:shortVersionString>0.12.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/RewardCharlyAdmin/storyfinder-releases/releases/download/v0.12.2/StoryFinder-1202.zip" length="66548638" type="application/octet-stream" sparkle:edSignature="wVi701awJrlBmkoIWHJbHpOWNMydS8DhRJ4w3NlScERG2eQHeratI680T3w94t6ZPKiKeHodbhK4nvQBMueOCA=="/>
+        </item>
+    </channel>
 </rss>
