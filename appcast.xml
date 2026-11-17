@@ -3,12 +3,12 @@
     <channel>
         <title>Story Finder</title>
         <item>
-            <title>0.12.2</title>
-            <pubDate>Tue, 17 Nov 2026 07:42:20 -0600</pubDate>
-            <sparkle:version>1202</sparkle:version>
-            <sparkle:shortVersionString>0.12.2</sparkle:shortVersionString>
+            <title>0.12.3</title>
+            <pubDate>Tue, 17 Nov 2026 10:46:50 -0600</pubDate>
+            <sparkle:version>1203</sparkle:version>
+            <sparkle:shortVersionString>0.12.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/RewardCharlyAdmin/storyfinder-releases/releases/download/v0.12.2/StoryFinder-1202.zip" length="66548638" type="application/octet-stream" sparkle:edSignature="wVi701awJrlBmkoIWHJbHpOWNMydS8DhRJ4w3NlScERG2eQHeratI680T3w94t6ZPKiKeHodbhK4nvQBMueOCA=="/>
+            <enclosure url="https://github.com/RewardCharlyAdmin/storyfinder-releases/releases/download/v0.12.3/StoryFinder-1203.zip" length="66563909" type="application/octet-stream" sparkle:edSignature="o+dtwgYN17kIpl0H7QursCfsPFauXjtMbSHU5wN1b4BFMAowWIpwZ/Sl331yA6y4hmnFd4RP08sDrehJrEhYBw=="/>
         </item>
     </channel>
 </rss>
